@@ -1,1 +1,23 @@
-/* Write the necessary CSS here! */ 
+* {
+    background-color: #d0cfcf;
+}
+
+body {
+    font-size: 16px;
+}
+
+section {
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
