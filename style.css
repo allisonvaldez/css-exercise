@@ -14,6 +14,10 @@ a {
     text-decoration-line: none;
 }
 
+h1 {
+    text-shadow: 5px 2px red;
+}
+
 h2 {
     text-transform: uppercase;
 }
